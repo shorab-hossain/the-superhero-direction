@@ -1,0 +1,19 @@
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+.header{
+    background-color: lightpink;
+    border-radius:  20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 30px;
+}
+.total{
+    font-weight: 900;
+    color: blueviolet;
+}
+h2{
+    color: brown;
+}

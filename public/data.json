@@ -1,0 +1,84 @@
+[
+    {
+      "name": "Saim Ahmed",
+      "Role": "Actor",
+      "Age": 28,
+      "Salary": 2000,
+      "key": 1,
+      "Country":"bangladesh",
+      "img":"https://www.newagebd.com/files/records/news/202102/129050_133.jpg"
+      
+    },
+    {
+      "name": "Arpin Shuvo",
+      "Role": "Story Writer",
+      "Age": 32,
+      "Salary": 5000,
+      "key": 2,
+      "Country":"bangladesh",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/6/67/Arifin_Shuvo_portrait_2017.jpg"
+    },
+    {
+      "name": " Ferdous Khan",
+      "Role": "Vilend",
+      "Age": 38,
+      "Salary": 6000,
+      "key": 3,
+      "Country":"bangladesh",
+      "img":"https://media-eng.dhakatribune.com/uploads/2019/04/ferdous-ahmed-facebook-1555616744124.jpg"
+    },
+    {
+      "name": "Babbi khan",
+      "Role": "Side naik",
+      "Age": 25,
+      "Salary": 1000,
+      "key": 4,
+      "Country":"bangladesh",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/0/07/BAPPY_JAGO_FM.jpg"
+    },
+    {
+      "name": "Mosarof Korim",
+      "Role": "Funny Man",
+      "Age": 34,
+      "Salary": 1500,
+      "key": 5,
+      "Country":"bangladesh",
+      "img":"https://media-eng.dhakatribune.com/uploads/2018/03/Mosharraf-Karim.jpg"
+    },
+    {
+      "name": "Thasan Alom",
+      "Role": "Singer",
+      "Age": 36,
+      "Salary": 3000,
+      "key": 6,
+      "Country":"bangladesh",
+      "img":"https://www.daily-sun.com/assets/news_images/2019/11/20/tahsan.jpg"
+    },
+    {
+      "name": "Amir khan",
+      "Role": "Produccer",
+      "Age": 42,
+      "Salary": 2500,
+      "key": 7,
+      "Country":"bangladesh",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9m2mvBhX40sLZgKLtxnSIJdfxi08ISKaOQ&usqp=CAU"
+    },
+    {
+      "name": "Alomgir Hossain",
+      "Role": "Actor",
+      "Age": 49,
+      "Salary": 3500,
+      "key": 8,
+      "Country":"bangladesh",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqj6NPGOSpurF4h8rTW6-ssZg_og411CH-w&usqp=CAU"
+    },
+    {
+      "name": "Manna",
+      "Role": "Actor",
+      "Age": 48,
+      "Salary": 6000,
+      "key": 9,
+      "Country":"bangladesh",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkFcLWf6akLiysiXIRoBLWxvSdqgBbt8xng&usqp=CAU"
+    }
+  ]
